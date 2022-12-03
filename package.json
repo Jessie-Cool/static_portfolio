@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Jessie-Cool/static_portfolio/issues"
   },
-  "homepage": "https://github.com/Jessie-Cool/static_portfolio/static/html/main.html",
+  "homepage": "https://github.com/Jessie-Cool/static_portfolio",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
